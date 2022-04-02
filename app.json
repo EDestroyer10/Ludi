@@ -11,7 +11,7 @@
     "cheat"
   ],
   "website": "https://ludicrousdev.org",
-  "repository": "https://github.com/LudicrousDevelopment/Ludicrous",
+  "repository": "https://github.com/EDestroyer10/Ludi",
   "logo": "https://raw.githubusercontent.com/LudicrousDevelopment/Ludi/main/public/favicon.ico",
   "success_url": "https://welcome.ludicrous.icu/",
   "buildpacks": [
